@@ -1,32 +1,32 @@
 const INITIAL_STATE = {
   sections: [
     {
-      title: "Punjabi",
-      imageUrl: "https://cdn.cdnparenting.com/articles/2019/03/25144135/774826042-H-696x476.jpg",
+      title: "Rice",
+      imageUrl: "https://media.istockphoto.com/photos/asian-chinese-fried-rice-with-vegetable-and-egg-with-chopsticks-picture-id172789635?k=6&m=172789635&s=612x612&w=0&h=GUfEQ5u-iQaAJ5QeOE7vpRioRu8KSwsAAPuD4175YCc=",
       id: 1,
       linkUrl: "shop/hats",
     },
     {
-      title: "CHINESE",
-      imageUrl: "https://www.dailynews.com/wp-content/uploads/2020/05/LDN-L-DINE-CHINESEFOOD-0529-1-1.jpg?w=838",
+      title: "Sweets",
+      imageUrl: "https://media.istockphoto.com/photos/indian-sweets-picture-id523041362?k=6&m=523041362&s=612x612&w=0&h=Mxn6KJDWy31EPN2gIZLJTtM-IkxpCESUiH_5uYfrTAk=",
       id: 2,
       linkUrl: "shop/jackets",
     },
     {
-      title: "Gujrati",
-      imageUrl: "https://img.traveltriangle.com/blog/wp-content/uploads/2018/02/DP1.jpg",
+      title: "Daal",
+      imageUrl: "https://media.istockphoto.com/photos/indian-dal-food-traditional-indian-soup-lentils-indian-dhal-spicy-in-picture-id1130228935?k=6&m=1130228935&s=612x612&w=0&h=LzDSEhEbXSgatq0_2ewQhgQGlDkeHBqoR5-0NyF_Xro=",
       id: 3,
       linkUrl: "shop/sneakers",
     },
     {
-      title: "South Indian",
-      imageUrl: "https://static.asianetnews.com/images/01d7v32trpgnee6wrycek5r70b/breakfast_710x400xt.jpg",
+      title: "Breads",
+      imageUrl: "https://media.istockphoto.com/photos/indian-bread-chapati-fulka-gehu-roti-with-wheat-grains-in-background-picture-id900220822?k=6&m=900220822&s=612x612&w=0&h=gcV0zd4u6ID3Ii4hklqkUnHn_NtA53J70uqT6bcrp5U=",
       size: "large",
       id: 4,
       linkUrl: "shop/women",
     },
     {
-      title: "north indian",
+      title: "Curry",
       imageUrl: "https://www.livemorezone.com/wp-content/uploads/places-to-eat-in-noida-live-more-zone-dbs.jpg",
       size: "large",
       id: 5,
